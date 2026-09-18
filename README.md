@@ -117,6 +117,6 @@ Real next steps, in order:
 
 The EDA/diagnostics notebook doesn't have a live dashboard — its deliverable is a 33-page PDF report written for a non-technical stakeholder. Rather than a "Try it live" section, link it directly, e.g.:
 
-> **Read the full report:** [`reports/retail_analysis_report.pdf`](./reports/retail_analysis_report.pdf)
+> **Read the full report:** [`reports/retail_analysis_report.pdf`](./reports/Retail_Analytics_Report.pdf)
 
 Drop the PDF in a `/reports` folder in the repo and point the link there — GitHub will render it inline when someone clicks through, so it functions the same way a demo link would for the deployed projects.
